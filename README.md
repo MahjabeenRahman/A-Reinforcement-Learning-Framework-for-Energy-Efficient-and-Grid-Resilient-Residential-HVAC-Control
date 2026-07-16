@@ -11,17 +11,24 @@ This project aims to develop an energy-efficient HVAC control system using the S
 - Minimize unnecessary HVAC switching
 - Consider Bangladesh load-shedding conditions
 
-4. Dataset:
+4. Planned Dataset:
 
-- Sinergym
-- EnergyPlus
+- EnergyPlus residential building model
 - Dhaka (.epw) weather data
+- Simulated occupancy patterns
+- Simulated load-shedding events
 
-5. Tools:
+ 5. Current Status
+- Literature review completed
+- Research gap identified
+- Experimental design prepared
+- Implementation is in progress
+  
+6. Planned Tools:
 
 Python,Sinergym,EnergyPlus,Stable-Baselines3
 
-6. Team Members
+7. Team Members
 
 Member 1 -Mahjabeen Rahman  ·  2023-1-60-253
 Member 2 -Monika Asha Momo  ·  2023-1-60-180
